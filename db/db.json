@@ -1,0 +1,11 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "task 01",
+      "body": "foo bar",
+      "completed": false,
+      "date": "2024-11-24"
+    }
+  ]
+}
